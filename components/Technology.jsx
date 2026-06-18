@@ -3,7 +3,7 @@ import Image from 'next/image'
 import { useLang } from '@/context/LangContext'
 
 const TECH = [
-  { key: 'tc1', img: 'https://images.unsplash.com/photo-1666214280557-f1b5022eb634?auto=format&fit=crop&w=600&q=80' },
+  { key: 'tc1', img: 'https://images.unsplash.com/photo-1538108149393-dbee39b67f8b?auto=format&fit=crop&w=600&q=80' },
   { key: 'tc2', img: 'https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=600&q=80' },
   { key: 'tc3', img: 'https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=600&q=80' },
   { key: 'tc4', img: 'https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&w=600&q=80' },

@@ -98,7 +98,7 @@ export default function Hero() {
         <div className="hero-visual reveal-right" style={{ '--d': '.2s' }}>
           <div className="hv-photo-frame">
             <Image
-              src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=800&q=85"
+              src="https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=800&q=85"
               alt="Zâmbet perfect după tratament"
               fill style={{ objectFit: 'cover', objectPosition: 'center top' }}
               priority

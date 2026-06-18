@@ -15,6 +15,9 @@ import Contact      from '@/components/Contact'
 import Footer       from '@/components/Footer'
 import WhatsAppFloat from '@/components/WhatsAppFloat'
 import CookieBanner from '@/components/CookieBanner'
+import ToothStage   from '@/components/ToothStage'
+import Story        from '@/components/Story'
+import Detartraj    from '@/components/Detartraj'
 
 export default function Home() {
   // Scroll reveal observer
@@ -61,10 +64,13 @@ export default function Home() {
 
   return (
     <>
+      <ToothStage />
       <Navbar />
       <main>
         <Hero />
         <TrustBar />
+        <Story />
+        <Detartraj />
         <Services />
         <About />
         <Technology />
